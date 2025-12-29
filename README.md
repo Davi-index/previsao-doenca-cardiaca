@@ -11,3 +11,4 @@ O artigo passará por correções finalizará seu desenvolvimento até o momento
 [**Acessar o artigo completo**](https://www.overleaf.com/read/gdytwjmphnmz#38d172) 
 
 ## Objetivo do Projeto
+Mostrar o avanço do treino da rede neural com base nos dados do projeto
