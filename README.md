@@ -4,16 +4,12 @@ Este projeto implementa uma Rede Neural para classificação automática da prev
 O objetivo é auxiliar no diagnóstico de previsão de doenças cardíacas (como hipertensão, insuficiência cardíaca e arritmias), reduzindo erros humanos e acelerando o processo, especialmente em locais com escassez de especialistas.
 O documento inclui, de forma clara e bem definida:
 
-🎯 Objetivo do Projeto
+🎯 Objetivo do Projeto&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;
+📊 Descrição dos Dados&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;
+⚙️ Pré-processamento&nbsp;&nbsp;&nbsp;
 
-📊 Descrição dos Dados
-
-⚙️ Pré-processamento
-
-🧠 Modelo e Treinamento
-
-📈 Resultados
-
+🧠 Modelo e Treinamento&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;
+📈 Resultados&nbsp;&nbsp;&nbsp;- &nbsp;&nbsp;&nbsp;
 Considerações finais e tecnologias utilizadas
 ##  Artigo
 
