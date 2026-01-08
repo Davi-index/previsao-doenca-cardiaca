@@ -11,4 +11,15 @@ O artigo passará por correções finalizará seu desenvolvimento até o momento
 [**Acessar o artigo completo**](https://www.overleaf.com/read/gdytwjmphnmz#38d172) 
 
 ## Objetivo do Projeto
-Mostrar o avanço do treino da rede neural com base nos dados dos hábitos dos pacientes com doenças cárdiacas e analisar a possibilidade de doença cárdiaca com base em seus hábitos
+
+O objetivo principal deste projeto é desenvolver um modelo computacional capaz de prever a ocorrência de doença cardíaca em pacientes a partir de variáveis clínicas e demográficas.
+
+O estudo busca:
+
+Auxiliar na identificação precoce de indivíduos em risco;
+
+Avaliar o desempenho de redes neurais na área da saúde;
+
+Investigar o impacto do pré-processamento de dados na performance do modelo;
+
+Fornecer subsídios para apoio à tomada de decisão clínica.
