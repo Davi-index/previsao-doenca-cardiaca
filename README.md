@@ -23,3 +23,27 @@ Avaliar o desempenho de redes neurais na área da saúde;
 Investigar o impacto do pré-processamento de dados na performance do modelo;
 
 Fornecer subsídios para apoio à tomada de decisão clínica.
+
+📊 Descrição dos Dados
+
+O conjunto de dados utilizado é composto por informações clínicas e comportamentais relacionadas à saúde cardiovascular de pacientes. O dataset inclui variáveis numéricas e categóricas, como:
+
+age: idade do paciente
+
+sex: sexo biológico
+
+cigsPerDay: número de cigarros consumidos por dia
+
+totChol: colesterol total
+
+sysBP / diaBP: pressão arterial sistólica e diastólica
+
+BMI: índice de massa corporal
+
+heartRate: frequência cardíaca
+
+glucose: nível de glicose
+
+TenYearCHD: variável alvo (0 = saudável, 1 = doença cardíaca)
+
+O dataset foi carregado a partir de um arquivo CSV e analisado quanto à sua estrutura, presença de valores ausentes e distribuição estatística.
