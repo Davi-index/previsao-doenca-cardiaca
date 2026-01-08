@@ -5,10 +5,15 @@ O objetivo é auxiliar no diagnóstico de previsão de doenças cardíacas (como
 O documento inclui, de forma clara e bem definida:
 
 🎯 Objetivo do Projeto
+
 📊 Descrição dos Dados
+
 ⚙️ Pré-processamento
+
 🧠 Modelo e Treinamento
+
 📈 Resultados
+
 Considerações finais e tecnologias utilizadas
 ##  Artigo
 
