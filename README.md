@@ -1,9 +1,15 @@
 # PREVISÃO DE DOENÇA CARDÍACA: UM CLASSIFICADOR DE RISCO COM REDES NEURAIS
 
 Este projeto implementa uma Rede Neural para classificação automática da previsão de doenças cárdiacas a partir de estatisticas de hábitos dos pacientes
-
 O objetivo é auxiliar no diagnóstico de previsão de doenças cardíacas (como hipertensão, insuficiência cardíaca e arritmias), reduzindo erros humanos e acelerando o processo, especialmente em locais com escassez de especialistas.
+O documento inclui, de forma clara e bem definida:
 
+🎯 Objetivo do Projeto
+📊 Descrição dos Dados
+⚙️ Pré-processamento
+🧠 Modelo e Treinamento
+📈 Resultados
+Considerações finais e tecnologias utilizadas
 ##  Artigo
 
 Os detalhes teóricos, metodologia, resultados completos e discussões adicionais estão descritos no artigo produzido durante o projeto:
@@ -54,8 +60,17 @@ O pré-processamento foi uma etapa essencial do projeto, uma vez que a qualidade
 
 As principais etapas realizadas foram:
 
-🔹 Tratamento de Valores Ausentes
+Tratamento de Valores Ausentes
 
 Variáveis numéricas: imputação pela média;
 
 Variáveis categóricas: imputação pela moda.
+
+## Tecnologias Utilizadas
+
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib / Seaborn
+Google Colab
