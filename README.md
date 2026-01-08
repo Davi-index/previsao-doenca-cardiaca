@@ -69,8 +69,13 @@ Variáveis categóricas: imputação pela moda.
 ## Tecnologias Utilizadas
 
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib / Seaborn
+
 Google Colab
