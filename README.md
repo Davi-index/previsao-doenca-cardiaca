@@ -24,7 +24,7 @@ Investigar o impacto do pré-processamento de dados na performance do modelo;
 
 Fornecer subsídios para apoio à tomada de decisão clínica.
 
-📊 Descrição dos Dados
+## Descrição dos Dados
 
 O conjunto de dados utilizado é composto por informações clínicas e comportamentais relacionadas à saúde cardiovascular de pacientes. O dataset inclui variáveis numéricas e categóricas, como:
 
@@ -47,3 +47,15 @@ glucose: nível de glicose
 TenYearCHD: variável alvo (0 = saudável, 1 = doença cardíaca)
 
 O dataset foi carregado a partir de um arquivo CSV e analisado quanto à sua estrutura, presença de valores ausentes e distribuição estatística.
+
+## Pré-Processamento dos Dados
+
+O pré-processamento foi uma etapa essencial do projeto, uma vez que a qualidade dos dados impacta diretamente o desempenho do modelo.
+
+As principais etapas realizadas foram:
+
+🔹 Tratamento de Valores Ausentes
+
+Variáveis numéricas: imputação pela média;
+
+Variáveis categóricas: imputação pela moda.
