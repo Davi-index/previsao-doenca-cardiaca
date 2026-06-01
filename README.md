@@ -71,7 +71,7 @@ Variáveis categóricas: imputação pela moda.
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-FF6F01?style=for-the-badge&logo=pandas&logoColor=black)&nbsp;
-![Num_Py](https://img.shields.io/badge/Num_Py-FF6F01?style=for-the-badge&logo=numpy&logoColor=black)&nbsp;
+![Num_Py](https://img.shields.io/badge/Num_Py-23A8F2?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 
 Pandas
 
