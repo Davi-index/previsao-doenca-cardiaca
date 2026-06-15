@@ -16,6 +16,8 @@ Considerações finais e tecnologias utilizadas
 Os detalhes teóricos, metodologia, resultados completos e discussões adicionais estão descritos no artigo produzido durante o projeto:
 O artigo passará por correções finalizará seu desenvolvimento até o momento de sua publicação
 [**Acessar o artigo completo**](https://www.overleaf.com/read/gdytwjmphnmz#38d172) 
+##  Códido
+
 
 ## Objetivo do Projeto
 
