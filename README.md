@@ -21,6 +21,9 @@ O artigo passará por correções finalizará seu desenvolvimento até o momento
 ##  Código
 [**Acessar O Código Completo do Projeto"Temporariamente Restrito"**](https://colab.research.google.com/drive/1RuoT_FwKNL8rLnToSX4Qz1K_FA8TE-_Y?authuser=2&pli=1#scrollTo=5A8kSM1SMjot)
 
+Os detalhes de desenvolvimento do projeto da Rede Neural se encontram temporariamente indisponívels devido a correções necessárias para a publicação do artigo cientifico:
+As correções do projeto serão finalizadas até o final do ano de 2026 para que a publicação seja realizada e o código e o artigo em formato de projetos finais, sejam disponibilizados de forma pública para os demais alunos/pesquisadores
+
 ## Objetivo do Projeto
 
 O objetivo principal deste projeto é desenvolver um modelo computacional capaz de prever a ocorrência de doença cardíaca em pacientes a partir de variáveis clínicas e demográficas.
