@@ -19,7 +19,7 @@ O artigo passará por correções finalizará seu desenvolvimento até o momento
 [**Acessar O Artigo Completo**](https://www.overleaf.com/read/gdytwjmphnmz#38d172) 
 
 ##  Código
-[**Acessar O Código Completo do Projeto "Indisponível Temporariamente"**](https://www.overleaf.com/read/gdytwjmphnmz#38d172)
+[**Acessar O Código Completo do Projeto**](https://colab.research.google.com/drive/1RuoT_FwKNL8rLnToSX4Qz1K_FA8TE-_Y?authuser=2&pli=1#scrollTo=5A8kSM1SMjot)
 
 ## Objetivo do Projeto
 
