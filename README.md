@@ -22,7 +22,7 @@ O artigo passará por correções finalizará seu desenvolvimento até o momento
 [**Acessar O Código Completo do Projeto"Temporariamente Restrito"**](https://colab.research.google.com/drive/1RuoT_FwKNL8rLnToSX4Qz1K_FA8TE-_Y?authuser=2&pli=1#scrollTo=5A8kSM1SMjot)
 
 Os detalhes de desenvolvimento do projeto da Rede Neural se encontram temporariamente indisponívels devido a correções necessárias para a publicação do artigo cientifico:
-As correções do projeto serão finalizadas até o final do ano de 2026 para que a publicação seja realizada e o código juntamente com artigo em formato de projetos finais, sejam disponibilizados de maneira pública para os demais alunos/pesquisadores
+As correções do projeto serão finalizadas até o final do ano de 2026 para que a publicação seja realizada e o código juntamente com artigo em formato de projetos finais, sejam disponibilizados de maneira pública para alunos e pesquisadores
 
 ## Objetivo do Projeto
 
